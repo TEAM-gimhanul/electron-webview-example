@@ -1,21 +1,21 @@
 {
   "name": "electron-quick-start",
-  "version": "1.0.0",
-  "description": "A minimal Electron application",
+  "version": "0.1.0",
+  "description": "Tutorialbook Electron Webview Example",
   "main": "main.js",
   "scripts": {
     "start": "electron ."
   },
-  "repository": "https://github.com/electron/electron-quick-start",
+  "repository": "https://github.com/TutorialBook/electron-webview-example",
   "keywords": [
     "Electron",
-    "quick",
-    "start",
+    "webview",
+    "example",
     "tutorial",
     "demo"
   ],
-  "author": "GitHub",
-  "license": "CC0-1.0",
+  "author": "SnowSprout",
+  "license": "MIT",
   "devDependencies": {
     "electron": "^1.4.1"
   }
